@@ -1,6 +1,6 @@
 def check_if_palindrome(word: str):
     '''
-    Cheks if given word is a palindrome.
+    Checks if given word is a palindrome.
     Arguments:
     word:   checked word
     '''
